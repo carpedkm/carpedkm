@@ -3,8 +3,7 @@
 - I am currently working on controllable image and video generative models.  
 - For more details, visit my [homepage](https://carpedkm.github.io/).
 
-- I am actively seeking for a research internship position in image/video editing or synthesis.  
-  If our interests align, feel free to get in touch!
+- I am actively seeking for a research internship position in image/video editing or synthesis. If our interests align, feel free to get in touch!
   
 <!--
 **carpedkm/carpedkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
