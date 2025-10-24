@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-- I am currently working on controllable image and video generative models.  
+- I am currently working on controllable image and video generative models.
+- I am interested in, but not limited to: generative models, multi-modal / video understanding.
 - For more details, visit my [homepage](https://carpedkm.github.io/).
 
-- I am actively seeking for a research internship position in image/video editing or synthesis. If our interests align, feel free to get in touch!
+- I am currently affilitated in [SNU CSE](https://jaesik.info) and [SONY Research](https://ai.sony).
+- I am open to discuss, collaborate on topics above. Feel free to reach out!
   
 <!--
 **carpedkm/carpedkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
