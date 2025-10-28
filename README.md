@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - I am currently working on controllable image and video generative models.
+- I am currently affilitated in [SNU CSE](https://jaesik.info) and [SONY Research](https://ai.sony).
 - I am interested in, but not limited to: generative models, multi-modal / video understanding.
 - For more details, visit my [homepage](https://carpedkm.github.io/).
 
-- I am currently affilitated in [SNU CSE](https://jaesik.info) and [SONY Research](https://ai.sony).
 - I am open to discuss, collaborate on topics above. Feel free to reach out!
   
 <!--
